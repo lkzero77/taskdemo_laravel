@@ -2,7 +2,7 @@
 
 This is demo for ticket web application on php (laravel framework) backend and vue frontend.
 
-Download: https://github.com/lkzero77/taskdemo/blob/master/Test%20Demo.pptx
+Download: https://github.com/lkzero77/taskdemo_laravel/blob/master/Test%20Demo.pptx
 
 # Setup
 git clone https://github.com/lkzero77/taskdemo_laravel.git
