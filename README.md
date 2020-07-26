@@ -19,7 +19,7 @@ cd taskdemo_laravel
 Create the database and user for the project:
 
 ```
-import file sql:  database\tasks.sql
+import file sql:  https://github.com/lkzero77/taskdemo_laravel/blob/master/database/tasks.sql
 ```
 
 Copy the example `.env` file:
