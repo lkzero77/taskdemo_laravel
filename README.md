@@ -63,13 +63,14 @@ NOTE: if using a virtual machine and NAT, you might need to run the server as `y
 
 Loading [127.0.0.1:8080](127.0.0.1:8080) now should show you the application.
 
+# Login page
+
+```
+admin: admin@admin.com | pass:123456
+user: test@test.com | pass:123456
+```
 
 ## License
 
 Apache 2.0, see [LICENSE](LICENSE).
 
-
-# Login page
-
-admin: admin@admin.com | pass:123456
-user: test@test.com | pass:123456
