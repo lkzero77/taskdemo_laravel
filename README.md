@@ -4,18 +4,14 @@ This is demo for ticket web application on php (laravel framework) backend and v
 
 Download: https://github.com/lkzero77/taskdemo_laravel/blob/master/Test%20Demo.pptx
 
-# Setup
-git clone https://github.com/lkzero77/taskdemo_laravel.git
-
-cd taskdemo_laravel
-
 ## Getting Started
 
 Clone this project using the following commands:
 
 ```
-git clone git@github.com:oktadeveloper/okta-php-laravel-vue-crud-example.git
-cd okta-php-laravel-vue-crud-example
+git clone https://github.com/lkzero77/taskdemo_laravel.git
+
+cd taskdemo_laravel
 ```
 
 ### Set up the Backend
